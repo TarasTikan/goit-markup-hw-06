@@ -795,6 +795,8 @@ color: rgba(117, 117, 117, 0.5);
   text-decoration-line: underline;
   margin-left: 4px;
   cursor: pointer;
+  display: flex;
+  align-items: center;
 }
 
 .check-text {
